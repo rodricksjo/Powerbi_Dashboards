@@ -6,6 +6,6 @@ DAX (**Data Analysis Expressions**) is a formula language used in **Power BI, Po
 ## 🔗 Access the Dashboards
 1.[Sales Dashboard](https://github.com/rodricksjo/Powerbi_Dashboards/blob/main/Sales%20Dashboard%20.jpg)<br>
 2.[Electric Vehicle Dashboard](https://github.com/rodricksjo/Powerbi_Dashboards/blob/main/EV%20Dashboard.jpg)<br>
-3.[Personal Finance Dashboard](https://github.com/user-attachments/assets/f4eb2f56-a2c3-46ca-897d-473168c048d6)<br>
+3.[Personal Finance Dashboard](https://github.com/rodricksjo/Powerbi_Dashboards/blob/main/PersonalFinaceDashb.jpg)<br>
 
 
