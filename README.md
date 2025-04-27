@@ -10,5 +10,6 @@ DAX (**Data Analysis Expressions**) is a formula language used in **Power BI, Po
 4.[Bank Churn Dashboard](https://github.com/rodricksjo/Powerbi_Dashboards/blob/main/BankCustomerChurnAnalysis.jpg)<br>
 5.[Global Sales Dashboard](https://github.com/rodricksjo/Powerbi_Dashboards/blob/main/Global%20Sales%20Analysis%20Dashboard.jpg)<br>
 6.[HR Attrition Dashboard](https://github.com/rodricksjo/Powerbi_Dashboards/blob/main/HR_Attrition_Analysis.jpg)<br>
+7.[Credit Defaulter Dashboard](https://github.com/rodricksjo/Powerbi_Dashboards/blob/main/Credit%20Defauletrs%20Dashboard.jpg)<br>
 
 
